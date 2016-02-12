@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/snippet",
+	"name":        "kodicms_kohana/snippet",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS snippet module",
 	"homepage":    "http://www.kodicms.ru/",
